@@ -1,0 +1,55 @@
+
+  
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+header{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.caja__superior{
+    color: white;
+    text-align: center;
+    background: black;
+    padding: 5px;
+    display: flex;
+}
+.logo__psa{
+    display: flex;
+    width: 13%;
+    margin-left: 80px;
+    margin-top: 0;
+    z-index: 1;
+  }
+.icono__superior{
+    width: 1%
+    }
+.up__container{
+    background-image: linear-gradient(to top, black, transparent), url(IMG/puerto\ sa.jpg);
+    background-size: cover;
+    color: white;
+}
+.upper_img{
+    width: 100%;
+}
+h1{
+font-family: Arial, Helvetica, sans-serif;
+padding-left: 10rem;
+padding-top: 30rem;
+padding-bottom: 10rem;
+font-size: 300%;
+
+}
+.sub__title{
+    font-style: oblique;
+    font-weight: 20;
+}
+.trans__bar{
+    display: inline-table;
+    border: white;
+    margin: 0;
+    text-align: center;
+    padding: 20px;
+
+}
